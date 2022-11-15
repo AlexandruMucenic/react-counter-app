@@ -1,0 +1,8 @@
+.limitMessage {
+  color: #dc143c;
+  border: 2px solid;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 5px;
+  width: fit-content;
+}

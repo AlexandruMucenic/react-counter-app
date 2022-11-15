@@ -1,0 +1,9 @@
+.butoane {
+  border: none;
+  padding: 0px 4px 4px 4px;
+  width: 60px;
+  border-radius: 50%;
+  color: #228b22;
+  font-size: 35px;
+  font-weight: bold;
+}

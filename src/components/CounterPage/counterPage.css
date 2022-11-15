@@ -1,0 +1,30 @@
+.counterContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 400px;
+}
+
+.number {
+  color: white;
+  font-size: 100px;
+}
+
+.butonsContainer {
+  display: flex;
+  width: 140px;
+  justify-content: space-around;
+}
+
+.green {
+  background-color: #3cb371;
+}
+
+.blue {
+  background-color: #1e90ff;
+}
+
+.red {
+  background-color: #ff6347;
+}
